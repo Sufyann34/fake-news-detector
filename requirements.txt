@@ -1,0 +1,7 @@
+cat > requirements.txt << 'EOF'
+pandas
+scikit-learn
+fastapi
+uvicorn
+nltk
+EOF
